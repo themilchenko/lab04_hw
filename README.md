@@ -6,8 +6,8 @@
 ### Ход выполнения `Tutorial`:
 
 ```sh
-$ export GITHUB_USERNAME=<имя_пользователя>
-$ export GITHUB_TOKEN=<полученный_токен>
+$ export GITHUB_USERNAME=themilchenko
+$ export GITHUB_TOKEN=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
 ```
 
 ```sh
