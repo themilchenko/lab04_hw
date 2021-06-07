@@ -1,0 +1,5 @@
+/home/milchenko/themilchenko/workspace/projects/lab03_hw/hello_world_application/build/CMakeFiles/rebuild_cache.dir
+/home/milchenko/themilchenko/workspace/projects/lab03_hw/hello_world_application/build/CMakeFiles/formatter.dir
+/home/milchenko/themilchenko/workspace/projects/lab03_hw/hello_world_application/build/CMakeFiles/myExe.dir
+/home/milchenko/themilchenko/workspace/projects/lab03_hw/hello_world_application/build/CMakeFiles/edit_cache.dir
+/home/milchenko/themilchenko/workspace/projects/lab03_hw/hello_world_application/build/CMakeFiles/formatter_ex.dir

@@ -1,0 +1,4 @@
+/home/milchenko/themilchenko/workspace/projects/lab03_hw/formatter_ex_lib/build/CMakeFiles/edit_cache.dir
+/home/milchenko/themilchenko/workspace/projects/lab03_hw/formatter_ex_lib/build/CMakeFiles/formatter_ex.dir
+/home/milchenko/themilchenko/workspace/projects/lab03_hw/formatter_ex_lib/build/CMakeFiles/rebuild_cache.dir
+/home/milchenko/themilchenko/workspace/projects/lab03_hw/formatter_ex_lib/build/CMakeFiles/formatter.dir
